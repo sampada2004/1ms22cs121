@@ -1,22 +1,28 @@
 <h1>1MS22CS121</h1>
 </br>
+
 ![image](https://github.com/user-attachments/assets/7cfa665b-58a9-4a96-b5a0-2e4a13aca5b0)
 
 <h1>EDUCATION</h1>
 <p>MSRIT 2022-2026</p></t><p>Narayana PU college</p>
-CONTACT
+</br>
+
+<h1>CONTACT</h1>
 +123-456-7890
+</br>
+<h1>Email</h1>
 hello@reallygreatsite.com
-123 Anywhere St., Any City
-www.reallygreatsite.com
-skills
-Project Management
+
+<h1>skills</h1>
+
+<p>Project Management
 Public Relations
 Teamwork
 Time Management
 Leadership
 Effective Communication
-Critical Thinking
+Critical Thinking</p>
+</br>
 wardiere university
 Master of Business Management
 2029 - 2030
