@@ -1,8 +1,9 @@
-#1MS22CS121
+<h1>1MS22CS121</h1>
 </br>
 ![image](https://github.com/user-attachments/assets/7cfa665b-58a9-4a96-b5a0-2e4a13aca5b0)
 
 <h1>EDUCATION</h1>
+<p>MSRIT 2022-2026</p></t><p>Narayana PU college</p>
 CONTACT
 +123-456-7890
 hello@reallygreatsite.com
